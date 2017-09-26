@@ -1,0 +1,1 @@
+print ("Rafał Parówka"+"LOL")vzdgvasd
